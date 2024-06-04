@@ -1,0 +1,10 @@
+.calenderError {
+  > input {
+    border: 1px solid red;
+    border-right: 0px;
+  }
+  > button {
+    border: 1px solid red;
+    border-left: 0px;
+  }
+}

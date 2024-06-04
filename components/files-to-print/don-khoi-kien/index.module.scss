@@ -1,0 +1,49 @@
+/* CSS ẩn các phần tử trong chế độ xem trình duyệt */
+@media screen {
+  .printHide {
+    display: none;
+  }
+}
+
+/* CSS hiển thị các phần tử trong chế độ in */
+@media print {
+  .printHide {
+    display: block !important;
+    padding: 12px 36px 0 54px;
+  }
+  .chxhcnvnStyle {
+    font-weight: bold;
+    text-align: center;
+  }
+  .dltdhpStyle {
+    font-weight: bold;
+    text-align: center;
+    margin-top: 4px;
+  }
+  .dateStyle {
+    font-style: italic;
+    text-align: right;
+    margin-top: 16px;
+  }
+  .titletyle {
+    font-weight: bold;
+    text-align: center;
+    font-size: larger;
+    margin-top: 32px;
+  }
+  .dearStyle {
+    margin: 18px 0 18px 36px;
+  }
+  .itemStyle {
+    margin: 4px 0 4px 0;
+  }
+  .signStyle {
+    font-weight: bold;
+    text-align: right;
+    margin: 36px 100px 0 0;
+  }
+  .signNoteStyle {
+    text-align: right;
+    margin: 4px 90px 0 0;
+  }
+}
