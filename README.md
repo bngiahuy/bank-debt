@@ -1,3 +1,10 @@
+## Demo accounts
+Admin email: nguoidieuhanh@gmail.com
+Admin password: x0bsdwyr
+
+Employee email: nguyenlachuy1995@gmail.com
+Employee password: 98wktzbb
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
